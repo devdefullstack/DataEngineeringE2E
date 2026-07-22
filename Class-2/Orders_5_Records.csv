@@ -1,0 +1,6 @@
+OrderID,OrderDate,CustomerID,CustomerName,Product,Category,Quantity,UnitPrice,TotalAmount,City,State,Country,OrderStatus,PaymentMethod
+1001,2026-07-01,C101,Alice Johnson,Laptop,Electronics,1,750,750,Bengaluru,Karnataka,India,Delivered,Credit Card
+1002,2026-07-02,C102,Rahul Sharma,Wireless Mouse,Electronics,2,25,50,Hyderabad,Telangana,India,Shipped,UPI
+1003,2026-07-03,C103,Priya Singh,Office Chair,Furniture,1,180,180,Mumbai,Maharashtra,India,Processing,Net Banking
+1004,2026-07-04,C104,David Miller,Notebook Pack,Stationery,5,6,30,Delhi,Delhi,India,Delivered,Cash
+1005,2026-07-05,C105,Sneha Patel,Water Bottle,Accessories,3,12,36,Pune,Maharashtra,India,Pending,Debit Card

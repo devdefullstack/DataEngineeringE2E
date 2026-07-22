@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Brand,UnitPrice,StockQuantity,SupplierID,LaunchDate,Status
+P101,Laptop Pro 14,Electronics,Dell,75000,45,S001,2025-01-15,Active
+P102,Wireless Mouse,Electronics,Logitech,1200,200,S002,2025-02-10,Active
+P103,Office Chair,Furniture,IKEA,8500,60,S003,2024-11-20,Active
+P104,Notebook Pack,Stationery,Classmate,250,500,S004,2025-03-05,Active
+P105,Steel Water Bottle,Accessories,Milton,650,150,S005,2025-04-18,Active
