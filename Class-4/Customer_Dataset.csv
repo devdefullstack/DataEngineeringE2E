@@ -1,0 +1,26 @@
+Customer_ID,Customer_Name,City,State,Order_ID,Order_Date,Product,Category,Amount,Order_Status,Payment_Status
+1001,John Smith,New York,NY,ORD10001,2026-07-01,Laptop,Electronics,850,Closed,Paid
+1002,Emma Johnson,Chicago,IL,ORD10002,2026-07-02,Mouse,Electronics,25,Pending,Pending
+1003,Liam Brown,Dallas,TX,ORD10003,2026-07-03,Desk,Furniture,210,Processing,Paid
+1004,Olivia Davis,Seattle,WA,ORD10004,2026-07-04,Chair,Furniture,145,Closed,Paid
+1005,Noah Wilson,Boston,MA,ORD10005,2026-07-05,Monitor,Electronics,320,Cancelled,Refunded
+1006,Sophia Miller,Austin,TX,ORD10006,2026-07-06,Keyboard,Electronics,55,Pending,Pending
+1007,James Moore,Denver,CO,ORD10007,2026-07-07,Tablet,Electronics,420,Shipped,Paid
+1008,Isabella Taylor,Phoenix,AZ,ORD10008,2026-07-08,Printer,Electronics,180,Delivered,Paid
+1009,Benjamin Anderson,Miami,FL,ORD10009,2026-07-09,Router,Networking,95,Closed,Paid
+1010,Mia Thomas,Atlanta,GA,ORD10010,2026-07-10,SSD,Storage,130,Pending,Pending
+1011,Lucas Jackson,San Jose,CA,ORD10011,2026-07-11,Headset,Accessories,75,Delivered,Paid
+1012,Charlotte White,Portland,OR,ORD10012,2026-07-12,Camera,Electronics,650,Processing,Paid
+1013,Henry Harris,Houston,TX,ORD10013,2026-07-13,Smartphone,Electronics,980,Shipped,Paid
+1014,Amelia Martin,Las Vegas,NV,ORD10014,2026-07-14,Power Bank,Accessories,40,Cancelled,Refunded
+1015,Elijah Thompson,Detroit,MI,ORD10015,2026-07-15,TV,Electronics,1200,Closed,Paid
+1016,Harper Garcia,Orlando,FL,ORD10016,2026-07-16,Speakers,Audio,220,Pending,Pending
+1017,Alexander Martinez,Charlotte,NC,ORD10017,2026-07-17,Webcam,Accessories,85,Delivered,Paid
+1018,Evelyn Robinson,Columbus,OH,ORD10018,2026-07-18,Projector,Electronics,560,Processing,Paid
+1019,Michael Clark,Nashville,TN,ORD10019,2026-07-19,Hard Disk,Storage,150,Shipped,Paid
+1020,Abigail Rodriguez,Indianapolis,IN,ORD10020,2026-07-20,Microphone,Audio,110,Closed,Paid
+1021,Daniel Lewis,Kansas City,MO,ORD10021,2026-07-21,Docking Station,Accessories,170,Pending,Pending
+1022,Ella Lee,San Diego,CA,ORD10022,2026-07-22,Graphics Card,Electronics,740,Delivered,Paid
+1023,Matthew Walker,Raleigh,NC,ORD10023,2026-07-23,UPS,Power,260,Closed,Paid
+1024,Scarlett Hall,Minneapolis,MN,ORD10024,2026-07-24,USB Drive,Storage,35,Cancelled,Refunded
+1025,David Allen,Philadelphia,PA,ORD10025,2026-07-25,Scanner,Electronics,290,Processing,Paid
